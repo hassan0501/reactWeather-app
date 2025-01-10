@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hassan0501/reactWeather-app.git/static/css/main.d7c33a6c.css",
+    "main.js": "/hassan0501/reactWeather-app.git/static/js/main.58f8a286.js",
+    "static/js/488.b89ddb6e.chunk.js": "/hassan0501/reactWeather-app.git/static/js/488.b89ddb6e.chunk.js",
+    "static/media/day.jpg": "/hassan0501/reactWeather-app.git/static/media/day.639a8f8cfb15daa6e865.jpg",
+    "static/media/night.jpg": "/hassan0501/reactWeather-app.git/static/media/night.5932d12615b33b75d615.jpg",
+    "index.html": "/hassan0501/reactWeather-app.git/index.html",
+    "main.d7c33a6c.css.map": "/hassan0501/reactWeather-app.git/static/css/main.d7c33a6c.css.map",
+    "main.58f8a286.js.map": "/hassan0501/reactWeather-app.git/static/js/main.58f8a286.js.map",
+    "488.b89ddb6e.chunk.js.map": "/hassan0501/reactWeather-app.git/static/js/488.b89ddb6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c33a6c.css",
+    "static/js/main.58f8a286.js"
+  ]
+}
